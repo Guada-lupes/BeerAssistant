@@ -1,0 +1,12 @@
+.button-component{
+    width: fit-content;
+    padding: 5px;
+    align-self: center;
+    margin: 10px;
+    background-color: #06D6A0;
+    border-color: #073B4C;
+    border-radius: 7px;
+    border: none;
+    border-bottom: solid 3px;
+    border-right: solid 3px;
+}

@@ -1,0 +1,18 @@
+.home-section{
+    background-color: #F9F7F3;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: system-ui;
+}
+.home-text-container{
+    padding: 30px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 3px 3px #073B4C;
+}
+.home-text{
+    text-align: center;
+    text-wrap-style: pretty;
+}
